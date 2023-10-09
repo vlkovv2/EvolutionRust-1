@@ -2,12 +2,12 @@
    "Servers":{
       "Official":[
          {
-            "Address":"185.207.214.93",
-            "Port":35007
+            "Address":"127.0.0.1",
+            "Port":28015
          },
          {
-            "Address":"185.207.214.93",
-            "Port":35006
+            "Address":"127.0.0.1",
+            "Port":28015
          }
       ],
       "Banned":[]
